@@ -2,6 +2,7 @@
 Bridge's Batch Rename in Maya
 
 <img src="https://github.com/Nichgon/batchRename/blob/master/doc/example1.png" width="650">
+<img src="https://github.com/Nichgon/batchRename/blob/master/doc/example3.png" width="650">
 
 ### Features
 * Generate new object names by using combination of the following generators
