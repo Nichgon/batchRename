@@ -1,5 +1,5 @@
 # batchRename
-Bridge Batch Rename in Maya
+Bridge's Batch Rename in Maya
 
 <img src="https://github.com/Nichgon/batchRename/blob/master/doc/example1.png" width="650">
 
