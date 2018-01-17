@@ -25,7 +25,7 @@ Bridge's Batch Rename in Maya
 
 ### Usage
 1. Download and unzip file. Copy `batchRename.py`, `batchRename.ui` and `Qt.py` (If you already have [Qt.py](https://github.com/mottosso/Qt.py) then you can skip it) to your scripts folder (eg. C:\Users\'YOUR USER NAME'\Documents\maya\2016\scripts) 
-1. Start Maya execute the command below in command line or Script Editor.
+1. Start Maya and execute the command below in command line or Script Editor.
 ```python
 import batchRename
 batchRename.execute()
