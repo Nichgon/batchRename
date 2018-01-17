@@ -2,7 +2,7 @@
 Bridge Batch Rename in Maya
 
 ### Features
-* Generate new object name by using combination of the following generators
+* Generate new object names by using combination of the following generators
   * **Text**
   * **Current Object Name**
   * **Current Object Type**
@@ -10,9 +10,9 @@ Bridge Batch Rename in Maya
   * **Sequence Number**
   * **Sequence Letter**
   * **String Substitution**
-* Change object name by selection order
+* Change object names by selection order
 * Save preset for use later
-* Preview new object name
+* Preview new object names
 * Export CSV file
 
 ### Compatibility
