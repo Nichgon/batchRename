@@ -1,4 +1,4 @@
-# Bridge Batch Rename in Maya by Nichgon
+# Bridge Batch Rename in Maya by Nichgon ver0.1
 
 from Qt import QtCore, QtWidgets, QtGui, QtCompat
 import maya.OpenMayaUI as omui
