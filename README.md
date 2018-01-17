@@ -12,7 +12,7 @@ Bridge Batch Rename in Maya
   * **String Substitution**
 * Change object name by selection order
 * Save preset for use later
-* Preview before rename
+* Preview new object name
 * Export CSV file
 
 ### Compatibility
