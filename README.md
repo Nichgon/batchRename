@@ -3,13 +3,13 @@ Bridge Batch Rename in Maya
 
 ### Features
 * Generate new object name by using combination of the following generators
-  * Text
-  * Current Object Name
-  * Current Object Type
-  * Parent Name
-  * Sequence Number
-  * Sequence Letter
-  * String Substitution
+  * **Text**
+  * **Current Object Name**
+  * **Current Object Type**
+  * **Parent Name**
+  * **Sequence Number**
+  * **Sequence Letter**
+  * **String Substitution**
 * Change object name by selection order
 * Save preset for use later
 * Preview before rename
